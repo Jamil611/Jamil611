@@ -1,24 +1,24 @@
 # 👋 Hi, I'm Jamil Ahmad  
-**Aspiring Data Analyst** | SQL • Excel • Python • Power BI | Data-Driven Problem Solver
+**Data Analyst** | SQL • Excel • Python • Power BI | Data-Driven Problem Solver
 
 ---
 
 ## 📌 About Me
 
-I'm a data analyst with a passion for uncovering insights through data. I enjoy transforming raw data into meaningful stories that drive decisions.  
-I recently completed **Cisco’s Data Analytics Essentials** and I'm actively building real-world projects in retail, e-commerce, and public data domains.
-
-🔍 Currently learning advanced SQL techniques and visualization tools  
-📊 Focused on business impact through data-driven storytelling
+I specialize in transforming raw data into meaningful insights and interactive dashboards. Over the past months, I’ve built a strong foundation in data cleaning, analysis, visualization, and storytelling through hands-on projects.
 
 ---
 
-## 🛠️ Skills
+## 🔧 Skills & Tools  
 
-- **Languages:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy)
-- **Data Tools:** Microsoft Excel, Power BI, Tableau
-- **Analysis & Viz:** Pivot Tables, Dashboards, DAX, Matplotlib, Seaborn
-- **Other:** Git, GitHub, Data Cleaning, Exploratory Data Analysis (EDA)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
@@ -27,9 +27,15 @@ I recently completed **Cisco’s Data Analytics Essentials** and I'm actively bu
 
 
 
-## 📜 Certifications
+---
 
-- ✅ Data Analytics Essentials – Cisco
+## 🏅 Certifications  
+
+- ![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+  **Google Data Analytics Professional Certificate** – Coursera  
+
+- ![Cisco](https://img.shields.io/badge/Cisco%20Data%20Analytics%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)  
+  **Cisco Data Analytics Essentials** – Cisco Networking Academy  
 
 ---
 
@@ -37,7 +43,6 @@ I recently completed **Cisco’s Data Analytics Essentials** and I'm actively bu
 
 - 🔗 [LinkedIn](https://linkedin.com/in/jamil611)
 - 📧 Email: jamil.ad611@gmail.com
-- 🌐 Portfolio: [https://jamil611.github.io](https://jamil611.github.io) *(optional GitHub Pages)*
 
 ---
 
