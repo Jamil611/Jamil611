@@ -9,6 +9,8 @@ I specialize in transforming raw data into meaningful insights and interactive d
 
 ---
 
+---
+
 ## 🔧 Skills & Tools  
 
 ### 📊 Data Analysis & Cleaning  
@@ -16,13 +18,13 @@ I specialize in transforming raw data into meaningful insights and interactive d
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python (pandas, NumPy)** → Data wrangling, transformation, exploratory data analysis (EDA)  
 
 ### 🗄️ Databases & Querying  
-- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) **SQL (PostgreSQL / MySQL)** → Joins, aggregations, subqueries, CTEs, case statements  
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) **SQL (PostgreSQL)** → Joins, aggregations, subqueries, CTEs, case statements  
 - **Database Management** → Query optimization, relational data modeling  
 
 ### 📈 Data Visualization & BI  
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI** → Interactive dashboards, KPIs, DAX, slicers & filters  
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau** → Storytelling dashboards, business performance insights  
 - ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logo=plotly&logoColor=white) **Matplotlib & Seaborn** → Data visualization, trend analysis, statistical plots  
+- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) **Plotly** → Interactive charts, advanced dashboards, web-based visualizations  
 
 ### 🛠️ Other Tools  
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **Git & GitHub** → Version control, project collaboration, portfolio management  
