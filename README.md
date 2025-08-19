@@ -11,14 +11,23 @@ I specialize in transforming raw data into meaningful insights and interactive d
 
 ## 🔧 Skills & Tools  
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=for-the-badge&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+### 📊 Data Analysis & Cleaning  
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel / Google Sheets** → Data cleaning, advanced formulas, pivot tables, charts, conditional formatting  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python (pandas, NumPy)** → Data wrangling, transformation, exploratory data analysis (EDA)  
+
+### 🗄️ Databases & Querying  
+- ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) **SQL (PostgreSQL / MySQL)** → Joins, aggregations, subqueries, CTEs, case statements  
+- **Database Management** → Query optimization, relational data modeling  
+
+### 📈 Data Visualization & BI  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI** → Interactive dashboards, KPIs, DAX, slicers & filters  
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau** → Storytelling dashboards, business performance insights  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-0C55A5?style=flat&logo=plotly&logoColor=white) **Matplotlib & Seaborn** → Data visualization, trend analysis, statistical plots  
+
+### 🛠️ Other Tools  
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **Git & GitHub** → Version control, project collaboration, portfolio management  
+- **Jupyter Notebook / Anaconda** → Python development & analysis environment  
+- **Data Storytelling & Communication** → Turning insights into actionable business decisions  
 
 ---
 
