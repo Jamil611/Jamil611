@@ -57,6 +57,8 @@ I specialize in transforming raw data into meaningful insights and interactive d
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=Jamil611&label=Profile%20Views&color=0e75b6&style=flat)
+
 ## 📊 GitHub Stats
 
 ![Jamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamil611&show_icons=true&theme=tokyonight)
